@@ -42,7 +42,7 @@ After cleaning outliers and deepening the network, the model achieved:
 ##  How to Run
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/california-housing-price-prediction.git](https://github.com/YOUR_USERNAME/california-housing-price-prediction.git)
+    git clone [https://github.com/mustafayoruk/california-housing-price-prediction.git](https://github.com/mustafayoruk/california-housing-price-prediction.git)
     ```
 2.  Install requirements:
     ```bash
